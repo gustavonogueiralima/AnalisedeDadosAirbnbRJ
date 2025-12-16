@@ -1,4 +1,4 @@
-# 🏨 Análise de Dados Airbnb RJ
+# 🏨 Análise e preparação de dados do Airbnb - Rio de Janeiro
 
 Este projeto tem como objetivo realizar **limpeza, tratamento e transformação de dados** de anúncios do Airbnb no Rio de Janeiro.  
 A análise inclui:
